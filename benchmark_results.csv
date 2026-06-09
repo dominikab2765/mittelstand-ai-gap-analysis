@@ -1,0 +1,21 @@
+company,group,classification,ai_mentions,artif_intel_mentions,total_mentions,total_words,per_10k
+SAP,Large Enterprise,Large Enterprise,384,14,398,160082,24.862
+Deutsche Telekom,Large Enterprise,Large Enterprise,184,37,221,235915,9.368
+ATOSS,Mittelstand,Operational-Dominant,91,8,99,88357,11.205
+Siemens,Large Enterprise,Large Enterprise,74,25,99,206770,4.788
+Volkswagen,Large Enterprise,Large Enterprise,47,13,60,302348,1.984
+Bechtle,Mittelstand,Strategic-Dominant,35,17,52,126914,4.097
+Allianz,Large Enterprise,Large Enterprise,38,12,50,228927,2.184
+Nemetscheck Group,Mittelstand,Strategic-Dominant,35,11,46,18406,24.992
+Secunet,Mittelstand,Strategic-Dominant,20,7,27,84814,3.183
+Jenoptik,Mittelstand,Balanced,17,8,25,126466,1.977
+TRUMPF,Mittelstand,Balanced,17,6,23,33804,6.804
+SUSS Microtec SE,Mittelstand,AI-Silent,19,4,23,120528,1.908
+Durr,Mittelstand,Strategic-Dominant,11,11,22,170607,1.29
+Heidelberg Druckmaschinen,Mittelstand,Operational-Dominant,17,2,19,91513,2.076
+Krones,Mittelstand,AI-Silent,8,9,17,118070,1.44
+Deutz AG,Mittelstand,AI-Silent,10,3,13,150379,0.864
+STRATEC SE,Mittelstand,AI-Silent,4,1,5,100619,0.497
+Rational AG,Mittelstand,AI-Silent,1,2,3,99997,0.3
+Dermapharm SE,Mittelstand,AI-Silent,0,0,0,78973,0.0
+Wacker Neuson,Mittelstand,AI-Silent,0,0,0,35717,0.0
