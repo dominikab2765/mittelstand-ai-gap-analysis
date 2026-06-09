@@ -1,0 +1,1 @@
+# mittelstand-ai-gap-analysis
